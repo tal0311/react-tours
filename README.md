@@ -25,6 +25,6 @@ In building the project I used React.js for the front end expernal Api as data f
 ### Linkedin: www.linkedin.com/in/tal-amit-developer
 
 ## App screenShots
-
+![Alt text](https://github.com/tal0311/grocery-bud/blob/master/screenShots/Screenshot%202021-11-10%20111758.png)
 
 
