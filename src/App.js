@@ -20,7 +20,7 @@ function App() {
       const tours = await response.json()
       setLoading(false)
       setTours(tours)
-      console.log(tours)
+     
     } catch (error) {
       setLoading(false)
       console.log(error)
